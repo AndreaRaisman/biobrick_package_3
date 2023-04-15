@@ -3,3 +3,4 @@
 export(dna_create)
 export(order_codons)
 export(t_to_u)
+export(translate_rna)
