@@ -1,5 +1,14 @@
-^mypkgname\.Rproj$
+^3DTUiGEM\.Rproj$
 ^\.Rproj\.user$
+<<<<<<< HEAD
 ^mypkgname\.Rcheck$
 ^mypkgname.*\.tar\.gz$
 ^mypkgname.*\.tgz$
+=======
+^3DTUiGEM\.Rcheck$
+^3DTUiGEM.*\.tar\.gz$
+^3DTUiGEM.*\.tgz$
+^LICENSE\.md$
+^3DTUiGEM\.load.R$
+
+>>>>>>> 282493807bf84769296c13f081a686d0e5d83b76
