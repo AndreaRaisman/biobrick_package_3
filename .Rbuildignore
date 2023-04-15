@@ -1,2 +1,8 @@
-^mypkgname\.Rproj$
+^3DTUiGEM\.Rproj$
 ^\.Rproj\.user$
+^3DTUiGEM\.Rcheck$
+^3DTUiGEM.*\.tar\.gz$
+^3DTUiGEM.*\.tgz$
+^LICENSE\.md$
+^3DTUiGEM\.load.R$
+
