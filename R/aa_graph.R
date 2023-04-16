@@ -2,7 +2,7 @@
 #'
 #' @param aa_seq amino acid sequence
 #'
-#' @return aa_plot plot of the amino acid frequencies
+#' @return aa_plot plot of the amino acid occurrences
 #' @export
 #'
 #' @examples If you input LLNRKKK, L is 2/7; N is 1/7, R is 1/7 and K is 3/7
